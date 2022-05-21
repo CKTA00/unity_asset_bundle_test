@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4268325420
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: obelisk_bun
+      Dependencies: {}

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3732778247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b8beb8bc2e6aaae87b83c694cc51b7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f64856a3d606b613608cbf22df470c60
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/obelisk.blend
+Dependencies: []
